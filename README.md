@@ -305,28 +305,6 @@ The pipeline generates classification results for every extracted question, incl
 
 ---
 
-# Project Structure
-
-```
-project/
-│
-├── notebooks/
-│   └── OCR_Classification.ipynb
-│
-├── sample_pdfs/
-│   ├── Math.pdf
-│   └── English.pdf
-│
-├── outputs/
-│   └── classification_results.csv
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 # Future Improvements
 
 * Fine-tune a transformer model on labeled examination datasets.
